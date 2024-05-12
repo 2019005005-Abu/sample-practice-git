@@ -4,7 +4,9 @@
 #### heading 4
 
 this is a sample text 
+
 ** this is a bold text
+
 __this is a italic text__
 
 - anishul
@@ -18,7 +20,7 @@ __this is a italic text__
 4.Japan
 5.India
 
-![Abu Al Shah Rifat](./images/1697796504764.jpeg)
+![Abu Al Shah Rifat](../Git/images/1697796504764.jpeg)
 
 | name | age|
 |------|----|

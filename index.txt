@@ -4,8 +4,7 @@ I am as a Programmer
 I have taken my bsc degree in IT in University of Sharda
 Bangladesh is a very beautiful country
 u are doing in programming section
-I am very much proud of you.
---------------------------------------------------------
+I am very much proud of --------------------------------------------------------
 Today is Tuesday.I have started my coding <div class="accordion" id="accordionExample">
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingOne">
@@ -31,10 +30,12 @@ Today is Tuesday.I have started my coding <div class="accordion" id="accordionEx
             </div>
         </div>
     </div>
-    
 </div>
-
 I am a full stack developer
+
+
+
+<h1>Fotter has been succesfully added</h1>
 
 
 
